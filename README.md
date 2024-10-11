@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guidoperez
 - 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning Python / Airflow / Ansible / Docker / Kubernetes 
+- 🌱 I’m currently learning DBT / Airflow / Ansible / Kafka 
 - 💞️ I’m looking to collaborate on the mentioned above
 - 📫 How to reach me credblity@gmail.com or gperez@bprdata.com
 
