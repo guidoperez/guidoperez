@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Data Engineering
 - 🌱 I’m currently learning DBT / Airflow / Ansible / Kafka 
 - 💞️ I’m looking to collaborate on the mentioned above
-- 📫 How to reach me credblity@gmail.com or gperez@bprdata.com
+- 📫 How to reach me credblity@gmail.com or gperez@certanus.com
 
 <!---
 guidoperez/guidoperez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
